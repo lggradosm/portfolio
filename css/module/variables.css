@@ -1,0 +1,38 @@
+:root {
+  --primary-background-color: #23272e;
+  --transparent-background-color: #23272ece;
+
+  --primary-theme-color: #29bac5;
+  --transparent-theme-color: #29bbc52a;
+  --primary-text-color: #8892b0;
+  --accent-text-color: #ccd6f6;
+  --danger-text-color: #e23c39;
+  --primary-text-font: "Calibre";
+  --secondary-text-font: "SF Mono";
+}
+
+@font-face {
+  font-family: "Calibre";
+  font-weight: 200;
+  font-style: normal;
+  src: url("../../assets/fonts/Calibre-Regular.woff2");
+}
+@font-face {
+  font-family: "Calibre";
+  font-weight: 600;
+  font-style: normal;
+  src: url("../../assets/fonts/Calibre-Medium.woff2");
+}
+@font-face {
+  font-family: "Calibre";
+  font-weight: 800;
+  font-style: normal;
+  src: url("../../assets/fonts/Calibre-Semibold.woff2");
+}
+
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../../assets/fonts/SFMono-Regular.woff2");
+}
